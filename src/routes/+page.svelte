@@ -45,9 +45,7 @@
 				<h2 class="text-gray-200 text-md font-base mt-4">{data.description}</h2>
 				<div class="flex mt-6">
 					{#each data.topics as topic}
-						<div class="">
-							<h2 class="text-[0.60rem] text-gray-50 tracking-widest mr-4 uppercase">{topic}</h2>
-						</div>
+						<h2 class="text-[0.60rem] text-gray-50 tracking-widest mr-4 uppercase">{topic}</h2>
 					{/each}
 				</div>
 			</a>
