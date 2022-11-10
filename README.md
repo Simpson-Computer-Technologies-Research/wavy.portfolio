@@ -1,5 +1,5 @@
-# Wavy Sphere with Gradient
-Wavy Sphere with a beautiful gradient template
+# Wavy Sphere with Gradient ![Stars](https://img.shields.io/github/stars/realTristan/wavy.portfolio?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/wavy.portfolio?label=Watchers)
+![Capture](https://user-images.githubusercontent.com/75189508/201162879-37caee09-98c0-45e4-b7c1-cbd5aac82eb2.PNG)
 
 
 # License
